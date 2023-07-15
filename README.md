@@ -1,0 +1,10 @@
+# Assalah Application
+![logo](https://github.com/Rama-Alyoubi/AssalahApplication/assets/128150728/501844a7-0b1a-4bc8-b66a-8cd719d5df18)
+Asalah Archeology and Tourism Application Introduction: Asalah is an innovative mobile application that aims to facilitate and improve the fields of archeology and tourism in Saudi Arabia. The application's main goal and functions are to help preserve artifacts and old pieces while making the citizen the tour guide of their foreign land. In addition to this, the application allows users to ask about places to visit using LLM technology. This project description provides an overview of the Asalah Archeology and Tourism Application, outlining its goals, objectives, scope, timeline, budget, and resources required to complete the project. Goals and Objectives: The primary goal of the Asalah Archeology and Tourism Application is to promote cultural awareness and appreciation for Saudi Arabia's history and heritage. The application aims to achieve this by providing users with a user-friendly and interactive platform that helps to preserve artifacts and old pieces while also making the citizen the tour guide of their foreign land. The application also provides the feature of using LLM technology to ask about places to visit, making it easier for users to plan their trips and get personalized recommendations. 
+
+The application's objectives are as follows: 
+- Provide a comprehensive database of information on the historical significance and importance of each artifact. 
+- Enable users to contribute to the preservation of artifacts and old pieces through community-driven initiatives such as fundraising and volunteering. 
+- Provide users with access to a range of tools and resources that will enable them to create and share their own tours and guides of various archeological sites and historical landmarks across the country. 
+- Develop an interactive map equipped with location-based services that allow users to easily find and navigate to their desired destinations. 
+- Allow users to ask the application about places to visit using LLM technology
